@@ -1,4 +1,3 @@
---- 
 
 **Competition Host
 [Name]
