@@ -3,8 +3,11 @@
 [Name]
 
 **Prizes and Awards
+
 [Money] 
+
 [Masters Sponsor]
+
 [Competition Progression]
 
 ---
