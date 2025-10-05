@@ -11,7 +11,9 @@ This file is supposed to help and guide your way through the decisions and why I
 
 **Prizes and Awards
 [Money]
+
 [Masters Sponsor] --> This is to keep the winners in the loop of academia or research if they decide to go with this, since alot of times after a hackathon many participants move on and forget about what they built.
+
 [Competition Progression] ---> Winning participants go onto higher stages to compete, and along the way they get mentors to help guide them and fine tune their work.
 
 ---
